@@ -1,0 +1,2132 @@
+[
+  {
+  "cabi_id": "1",
+  "station_name": "20th & Bell St",
+  "lat": "38.8561",
+  "long": "-77.0512"
+  },
+  {
+  "cabi_id": "2",
+  "station_name": "18th & Eads St.",
+  "lat": "38.85725",
+  "long": "-77.05332"
+  },
+  {
+  "cabi_id": "3",
+  "station_name": "20th & Crystal Dr",
+  "lat": "38.8564",
+  "long": "-77.0492"
+  },
+  {
+  "cabi_id": "4",
+  "station_name": "15th & Crystal Dr",
+  "lat": "38.86017",
+  "long": "-77.049593"
+  },
+  {
+  "cabi_id": "5",
+  "station_name": "Aurora Hills Community Ctr/18th & Hayes St",
+  "lat": "38.857866",
+  "long": "-77.05949"
+  },
+  {
+  "cabi_id": "6",
+  "station_name": "Pentagon City Metro / 12th & S Hayes St",
+  "lat": "38.862303",
+  "long": "-77.059936"
+  },
+  {
+  "cabi_id": "7",
+  "station_name": "S Joyce & Army Navy Dr",
+  "lat": "38.8637",
+  "long": "-77.0633"
+  },
+  {
+  "cabi_id": "8",
+  "station_name": "Crystal City Metro / 18th & Bell St",
+  "lat": "38.857063",
+  "long": "-77.051141"
+  },
+  {
+  "cabi_id": "9",
+  "station_name": "12th & Army Navy Dr",
+  "lat": "38.8629",
+  "long": "-77.0528"
+  },
+  {
+  "cabi_id": "10",
+  "station_name": "27th & Crystal Dr",
+  "lat": "38.848441",
+  "long": "-77.051516"
+  },
+  {
+  "cabi_id": "11",
+  "station_name": "S Glebe & Potomac Ave",
+  "lat": "38.8426",
+  "long": "-77.0502"
+  },
+  {
+  "cabi_id": "12",
+  "station_name": "23rd & Crystal Dr",
+  "lat": "38.8533",
+  "long": "-77.0498"
+  },
+  {
+  "cabi_id": "13",
+  "station_name": "26th & S Clark St",
+  "lat": "38.850688",
+  "long": "-77.05152"
+  },
+  {
+  "cabi_id": "14",
+  "station_name": "19th St & Pennsylvania Ave NW",
+  "lat": "38.9003",
+  "long": "-77.0429"
+  },
+  {
+  "cabi_id": "15",
+  "station_name": "14th & V St NW",
+  "lat": "38.9176",
+  "long": "-77.0321"
+  },
+  {
+  "cabi_id": "16",
+  "station_name": "11th & Kenyon St NW",
+  "lat": "38.929464",
+  "long": "-77.027822"
+  },
+  {
+  "cabi_id": "17",
+  "station_name": "16th & Harvard St NW",
+  "lat": "38.926088",
+  "long": "-77.036536"
+  },
+  {
+  "cabi_id": "18",
+  "station_name": "Adams Mill & Columbia Rd NW",
+  "lat": "38.922925",
+  "long": "-77.042581"
+  },
+  {
+  "cabi_id": "19",
+  "station_name": "14th & Harvard St NW",
+  "lat": "38.9268",
+  "long": "-77.0322"
+  },
+  {
+  "cabi_id": "20",
+  "station_name": "Calvert & Biltmore St NW",
+  "lat": "38.923203",
+  "long": "-77.047637"
+  },
+  {
+  "cabi_id": "21",
+  "station_name": "Lamont & Mt Pleasant NW",
+  "lat": "38.9319",
+  "long": "-77.0388"
+  },
+  {
+  "cabi_id": "22",
+  "station_name": "4th & M St SW",
+  "lat": "38.8767",
+  "long": "-77.0178"
+  },
+  {
+  "cabi_id": "23",
+  "station_name": "15th & P St NW",
+  "lat": "38.90985",
+  "long": "-77.034438"
+  },
+  {
+  "cabi_id": "24",
+  "station_name": "14th & R St NW",
+  "lat": "38.912682",
+  "long": "-77.031681"
+  },
+  {
+  "cabi_id": "25",
+  "station_name": "14th & Rhode Island Ave NW",
+  "lat": "38.9086",
+  "long": "-77.0323"
+  },
+  {
+  "cabi_id": "26",
+  "station_name": "20th & E St NW",
+  "lat": "38.8963",
+  "long": "-77.045"
+  },
+  {
+  "cabi_id": "27",
+  "station_name": "21st & I St NW",
+  "lat": "38.9008",
+  "long": "-77.047"
+  },
+  {
+  "cabi_id": "28",
+  "station_name": "Georgia & New Hampshire Ave NW",
+  "lat": "38.936043",
+  "long": "-77.024649"
+  },
+  {
+  "cabi_id": "29",
+  "station_name": "14th St & Spring Rd NW",
+  "lat": "38.9375",
+  "long": "-77.0328"
+  },
+  {
+  "cabi_id": "30",
+  "station_name": "John McCormack Dr & Michigan Ave NE",
+  "lat": "38.9346",
+  "long": "-76.9955"
+  },
+  {
+  "cabi_id": "31",
+  "station_name": "5th & K St NW",
+  "lat": "38.90304",
+  "long": "-77.019027"
+  },
+  {
+  "cabi_id": "32",
+  "station_name": "19th & East Capitol St SE",
+  "lat": "38.8896",
+  "long": "-76.9769"
+  },
+  {
+  "cabi_id": "33",
+  "station_name": "Park Rd & Holmead Pl NW",
+  "lat": "38.9308",
+  "long": "-77.0315"
+  },
+  {
+  "cabi_id": "34",
+  "station_name": "Good Hope & Naylor Rd SE",
+  "lat": "38.8601",
+  "long": "-76.9672"
+  },
+  {
+  "cabi_id": "35",
+  "station_name": "Connecticut Ave & Newark St NW / Cleveland Park",
+  "lat": "38.934267",
+  "long": "-77.057979"
+  },
+  {
+  "cabi_id": "36",
+  "station_name": "Randle Circle & Minnesota Ave SE",
+  "lat": "38.878",
+  "long": "-76.9607"
+  },
+  {
+  "cabi_id": "37",
+  "station_name": "Minnesota Ave Metro/DOES",
+  "lat": "38.897063",
+  "long": "-76.947446"
+  },
+  {
+  "cabi_id": "38",
+  "station_name": "Nannie Helen Burroughs & Minnesota Ave NE",
+  "lat": "38.901385",
+  "long": "-76.941877"
+  },
+  {
+  "cabi_id": "39",
+  "station_name": "Anacostia Metro",
+  "lat": "38.862669",
+  "long": "-76.994637"
+  },
+  {
+  "cabi_id": "40",
+  "station_name": "Good Hope Rd & MLK Ave SE",
+  "lat": "38.867373",
+  "long": "-76.988039"
+  },
+  {
+  "cabi_id": "41",
+  "station_name": "19th & E Street NW",
+  "lat": "38.8952",
+  "long": "-77.0436"
+  },
+  {
+  "cabi_id": "42",
+  "station_name": "4th & W St NE",
+  "lat": "38.919077",
+  "long": "-77.000648"
+  },
+  {
+  "cabi_id": "43",
+  "station_name": "10th & U St NW",
+  "lat": "38.9172",
+  "long": "-77.0259"
+  },
+  {
+  "cabi_id": "44",
+  "station_name": "Georgia Ave and Fairmont St NW",
+  "lat": "38.9249",
+  "long": "-77.0222"
+  },
+  {
+  "cabi_id": "45",
+  "station_name": "1st & N St  SE",
+  "lat": "38.8743",
+  "long": "-77.0057"
+  },
+  {
+  "cabi_id": "46",
+  "station_name": "20th St & Florida Ave NW",
+  "lat": "38.9154",
+  "long": "-77.0446"
+  },
+  {
+  "cabi_id": "47",
+  "station_name": "7th & T St NW",
+  "lat": "38.9155",
+  "long": "-77.0222"
+  },
+  {
+  "cabi_id": "48",
+  "station_name": "23rd & Eads St",
+  "lat": "38.853531",
+  "long": "-77.053509"
+  },
+  {
+  "cabi_id": "49",
+  "station_name": "M St & New Jersey Ave SE",
+  "lat": "38.8763",
+  "long": "-77.0037"
+  },
+  {
+  "cabi_id": "51",
+  "station_name": "Massachusetts Ave & Dupont Circle NW",
+  "lat": "38.9101",
+  "long": "-77.0444"
+  },
+  {
+  "cabi_id": "52",
+  "station_name": "1st & M St NE",
+  "lat": "38.9057",
+  "long": "-77.0056"
+  },
+  {
+  "cabi_id": "53",
+  "station_name": "21st & M St NW",
+  "lat": "38.90534",
+  "long": "-77.046774"
+  },
+  {
+  "cabi_id": "54",
+  "station_name": "17th & K St NW",
+  "lat": "38.90276",
+  "long": "-77.03863"
+  },
+  {
+  "cabi_id": "55",
+  "station_name": "3rd & H St NW",
+  "lat": "38.899408",
+  "long": "-77.015289"
+  },
+  {
+  "cabi_id": "56",
+  "station_name": "3rd & D St SE",
+  "lat": "38.8851",
+  "long": "-77.0023"
+  },
+  {
+  "cabi_id": "57",
+  "station_name": "Potomac & Pennsylvania Ave SE",
+  "lat": "38.8803",
+  "long": "-76.9862"
+  },
+  {
+  "cabi_id": "58",
+  "station_name": "14th & D St SE",
+  "lat": "38.884",
+  "long": "-76.9861"
+  },
+  {
+  "cabi_id": "59",
+  "station_name": "17th & Corcoran St NW",
+  "lat": "38.9121",
+  "long": "-77.0387"
+  },
+  {
+  "cabi_id": "60",
+  "station_name": "Van Ness Metro / UDC",
+  "lat": "38.944551",
+  "long": "-77.063896"
+  },
+  {
+  "cabi_id": "61",
+  "station_name": "Florida Ave & R St NW",
+  "lat": "38.9126",
+  "long": "-77.0135"
+  },
+  {
+  "cabi_id": "62",
+  "station_name": "8th & Eye St SE / Barracks Row",
+  "lat": "38.8792",
+  "long": "-76.9953"
+  },
+  {
+  "cabi_id": "63",
+  "station_name": "Ward Circle / American University",
+  "lat": "38.938736",
+  "long": "-77.087171"
+  },
+  {
+  "cabi_id": "64",
+  "station_name": "Wisconsin Ave & Newark St NW",
+  "lat": "38.934881",
+  "long": "-77.072755"
+  },
+  {
+  "cabi_id": "65",
+  "station_name": "14th St Heights / 14th & Crittenden St NW",
+  "lat": "38.947774",
+  "long": "-77.032818"
+  },
+  {
+  "cabi_id": "66",
+  "station_name": "Anacostia Library",
+  "lat": "38.865784",
+  "long": "-76.9784"
+  },
+  {
+  "cabi_id": "67",
+  "station_name": "Pennsylvania & Minnesota Ave SE",
+  "lat": "38.873057",
+  "long": "-76.971015"
+  },
+  {
+  "cabi_id": "68",
+  "station_name": "Eastern Market / 7th & North Carolina Ave SE",
+  "lat": "38.886952",
+  "long": "-76.996806"
+  },
+  {
+  "cabi_id": "69",
+  "station_name": "14th St & New York Ave NW",
+  "lat": "38.899632",
+  "long": "-77.031686"
+  },
+  {
+  "cabi_id": "70",
+  "station_name": "Benning Branch Library",
+  "lat": "38.894",
+  "long": "-76.947974"
+  },
+  {
+  "cabi_id": "71",
+  "station_name": "USDA / 12th & Independence Ave SW",
+  "lat": "38.887237",
+  "long": "-77.028226"
+  },
+  {
+  "cabi_id": "72",
+  "station_name": "Georgetown Harbor / 30th St NW",
+  "lat": "38.9022212",
+  "long": "-77.059219"
+  },
+  {
+  "cabi_id": "73",
+  "station_name": "12th & Newton St NE",
+  "lat": "38.933668",
+  "long": "-76.991016"
+  },
+  {
+  "cabi_id": "74",
+  "station_name": "US Dept of State / Virginia Ave & 21st St NW",
+  "lat": "38.894919",
+  "long": "-77.046587"
+  },
+  {
+  "cabi_id": "75",
+  "station_name": "L'Enfant Plaza / 7th & C St SW",
+  "lat": "38.886266",
+  "long": "-77.022241"
+  },
+  {
+  "cabi_id": "76",
+  "station_name": "10th St & Constitution Ave NW",
+  "lat": "38.893028",
+  "long": "-77.026013"
+  },
+  {
+  "cabi_id": "77",
+  "station_name": "Kennedy Center",
+  "lat": "38.895184",
+  "long": "-77.054845"
+  },
+  {
+  "cabi_id": "78",
+  "station_name": "Eastern Market Metro / Pennsylvania Ave & 7th St SE",
+  "lat": "38.884",
+  "long": "-76.995397"
+  },
+  {
+  "cabi_id": "79",
+  "station_name": "18th & M St NW",
+  "lat": "38.904742",
+  "long": "-77.041606"
+  },
+  {
+  "cabi_id": "80",
+  "station_name": "Tenleytown / Wisconsin Ave & Albemarle St NW",
+  "lat": "38.947607",
+  "long": "-77.079382"
+  },
+  {
+  "cabi_id": "81",
+  "station_name": "13th & H St NE",
+  "lat": "38.9003",
+  "long": "-76.9882"
+  },
+  {
+  "cabi_id": "82",
+  "station_name": "5th & F St NW",
+  "lat": "38.897222",
+  "long": "-77.019347"
+  },
+  {
+  "cabi_id": "83",
+  "station_name": "New York Ave & 15th St NW",
+  "lat": "38.8991",
+  "long": "-77.0337"
+  },
+  {
+  "cabi_id": "84",
+  "station_name": "Convention Center / 7th & M St NW",
+  "lat": "38.90572",
+  "long": "-77.022264"
+  },
+  {
+  "cabi_id": "85",
+  "station_name": "Harvard St & Adams Mill Rd NW",
+  "lat": "38.927872",
+  "long": "-77.043358"
+  },
+  {
+  "cabi_id": "86",
+  "station_name": "19th & L St NW",
+  "lat": "38.903407",
+  "long": "-77.043648"
+  },
+  {
+  "cabi_id": "87",
+  "station_name": "C & O Canal & Wisconsin Ave NW",
+  "lat": "38.90375",
+  "long": "-77.06269"
+  },
+  {
+  "cabi_id": "88",
+  "station_name": "6th & Water St SW / SW Waterfront",
+  "lat": "38.87675",
+  "long": "-77.02127"
+  },
+  {
+  "cabi_id": "89",
+  "station_name": "D St & Maryland Ave NE",
+  "lat": "38.894758",
+  "long": "-76.997114"
+  },
+  {
+  "cabi_id": "90",
+  "station_name": "34th St & Wisconsin Ave NW",
+  "lat": "38.916442",
+  "long": "-77.0682"
+  },
+  {
+  "cabi_id": "91",
+  "station_name": "13th St & New York Ave NW",
+  "lat": "38.900283",
+  "long": "-77.029822"
+  },
+  {
+  "cabi_id": "92",
+  "station_name": "8th & H St NW",
+  "lat": "38.8997",
+  "long": "-77.023086"
+  },
+  {
+  "cabi_id": "93",
+  "station_name": "10th & Monroe St NE",
+  "lat": "38.932514",
+  "long": "-76.992889"
+  },
+  {
+  "cabi_id": "94",
+  "station_name": "Eckington Pl & Q St NE",
+  "lat": "38.910972",
+  "long": "-77.00495"
+  },
+  {
+  "cabi_id": "95",
+  "station_name": "6th & H St NE",
+  "lat": "38.899972",
+  "long": "-76.998347"
+  },
+  {
+  "cabi_id": "96",
+  "station_name": "3rd & H St NE",
+  "lat": "38.900412",
+  "long": "-77.001949"
+  },
+  {
+  "cabi_id": "97",
+  "station_name": "Bladensburg Rd & Benning Rd NE",
+  "lat": "38.900413",
+  "long": "-76.982872"
+  },
+  {
+  "cabi_id": "98",
+  "station_name": "4th & East Capitol St NE",
+  "lat": "38.889955",
+  "long": "-77.000349"
+  },
+  {
+  "cabi_id": "99",
+  "station_name": "Lincoln Park / 13th & East Capitol St NE ",
+  "lat": "38.890461",
+  "long": "-76.988355"
+  },
+  {
+  "cabi_id": "100",
+  "station_name": "Branch & Pennsylvania Ave SE",
+  "lat": "38.8692",
+  "long": "-76.9599"
+  },
+  {
+  "cabi_id": "101",
+  "station_name": "13th & D St NE",
+  "lat": "38.894832",
+  "long": "-76.987633"
+  },
+  {
+  "cabi_id": "102",
+  "station_name": "New Hampshire Ave & T St NW",
+  "lat": "38.91554",
+  "long": "-77.03818"
+  },
+  {
+  "cabi_id": "103",
+  "station_name": "Metro Center / 12th & G St NW",
+  "lat": "38.898364",
+  "long": "-77.027869"
+  },
+  {
+  "cabi_id": "104",
+  "station_name": "14th & D St NW / Ronald Reagan Building",
+  "lat": "38.894514",
+  "long": "-77.031617"
+  },
+  {
+  "cabi_id": "105",
+  "station_name": "7th & F St NW / National Portrait Gallery",
+  "lat": "38.897324",
+  "long": "-77.022322"
+  },
+  {
+  "cabi_id": "106",
+  "station_name": "17th & K St NW / Farragut Square",
+  "lat": "38.902061",
+  "long": "-77.038322"
+  },
+  {
+  "cabi_id": "107",
+  "station_name": "20th & O St NW / Dupont South",
+  "lat": "38.908905",
+  "long": "-77.04478"
+  },
+  {
+  "cabi_id": "108",
+  "station_name": "4th & D St NW / Judiciary Square",
+  "lat": "38.895344",
+  "long": "-77.016106"
+  },
+  {
+  "cabi_id": "109",
+  "station_name": "19th St & Constitution Ave NW",
+  "lat": "38.8923",
+  "long": "-77.0436"
+  },
+  {
+  "cabi_id": "110",
+  "station_name": "37th & O St NW / Georgetown University",
+  "lat": "38.90774",
+  "long": "-77.071652"
+  },
+  {
+  "cabi_id": "111",
+  "station_name": "11th & H St NE",
+  "lat": "38.899983",
+  "long": "-76.991383"
+  },
+  {
+  "cabi_id": "112",
+  "station_name": "25th St & Pennsylvania Ave NW",
+  "lat": "38.903827",
+  "long": "-77.053485"
+  },
+  {
+  "cabi_id": "113",
+  "station_name": "Columbus Circle / Union Station",
+  "lat": "38.89696",
+  "long": "-77.00493"
+  },
+  {
+  "cabi_id": "114",
+  "station_name": "North Capitol St & F St NW",
+  "lat": "38.897446",
+  "long": "-77.009888"
+  },
+  {
+  "cabi_id": "115",
+  "station_name": "11th & M St NW",
+  "lat": "38.905607",
+  "long": "-77.027137"
+  },
+  {
+  "cabi_id": "116",
+  "station_name": "36th & Calvert St NW / Glover Park",
+  "lat": "38.922581",
+  "long": "-77.070334"
+  },
+  {
+  "cabi_id": "117",
+  "station_name": "14th & G St NW",
+  "lat": "38.898069",
+  "long": "-77.031823"
+  },
+  {
+  "cabi_id": "118",
+  "station_name": "Potomac Ave & 35th St S",
+  "lat": "38.844015",
+  "long": "-77.050537"
+  },
+  {
+  "cabi_id": "124",
+  "station_name": "Ohio Dr & West Basin Dr SW / MLK & FDR Memorials",
+  "lat": "38.88412",
+  "long": "-77.04657"
+  },
+  {
+  "cabi_id": "125",
+  "station_name": "11th & F St NW",
+  "lat": "38.897857",
+  "long": "-77.026975"
+  },
+  {
+  "cabi_id": "126",
+  "station_name": "23rd & E St NW ",
+  "lat": "38.896104",
+  "long": "-77.049882"
+  },
+  {
+  "cabi_id": "127",
+  "station_name": "Lynn & 19th St North",
+  "lat": "38.897315",
+  "long": "-77.070993"
+  },
+  {
+  "cabi_id": "128",
+  "station_name": "Rosslyn Metro / Wilson Blvd & Ft Myer Dr",
+  "lat": "38.8946",
+  "long": "-77.072305"
+  },
+  {
+  "cabi_id": "129",
+  "station_name": "Clarendon Blvd & Pierce St",
+  "lat": "38.893648",
+  "long": "-77.076701"
+  },
+  {
+  "cabi_id": "130",
+  "station_name": "Wilson Blvd & N Uhle St",
+  "lat": "38.891696",
+  "long": "-77.0846"
+  },
+  {
+  "cabi_id": "131",
+  "station_name": "N Rhodes & 16th St N",
+  "lat": "38.892164",
+  "long": "-77.079375"
+  },
+  {
+  "cabi_id": "132",
+  "station_name": "Fairfax Village",
+  "lat": "38.86559",
+  "long": "-76.952103"
+  },
+  {
+  "cabi_id": "133",
+  "station_name": "21st St & Constitution Ave NW",
+  "lat": "38.892459",
+  "long": "-77.046567"
+  },
+  {
+  "cabi_id": "134",
+  "station_name": "Wilson Blvd & N Edgewood St",
+  "lat": "38.889",
+  "long": "-77.0925"
+  },
+  {
+  "cabi_id": "135",
+  "station_name": "Columbia Rd & Belmont St NW",
+  "lat": "38.920669",
+  "long": "-77.04368"
+  },
+  {
+  "cabi_id": "136",
+  "station_name": "17th & Rhode Island Ave NW",
+  "lat": "38.906602",
+  "long": "-77.038785"
+  },
+  {
+  "cabi_id": "137",
+  "station_name": "Thomas Circle",
+  "lat": "38.9059",
+  "long": "-77.0325"
+  },
+  {
+  "cabi_id": "138",
+  "station_name": "Wilson Blvd & Franklin Rd",
+  "lat": "38.8904",
+  "long": "-77.0889"
+  },
+  {
+  "cabi_id": "139",
+  "station_name": "Clarendon Blvd & N Fillmore St",
+  "lat": "38.8881",
+  "long": "-77.09308"
+  },
+  {
+  "cabi_id": "140",
+  "station_name": "Clarendon Metro / Wilson Blvd & N Highland St",
+  "lat": "38.88786",
+  "long": "-77.094875"
+  },
+  {
+  "cabi_id": "141",
+  "station_name": "18th St & Pennsylvania Ave NW",
+  "lat": "38.89968",
+  "long": "-77.041539"
+  },
+  {
+  "cabi_id": "142",
+  "station_name": "Maryland & Independence Ave SW",
+  "lat": "38.887299",
+  "long": "-77.018939"
+  },
+  {
+  "cabi_id": "143",
+  "station_name": "4th & E St SW",
+  "lat": "38.88412",
+  "long": "-77.017445"
+  },
+  {
+  "cabi_id": "144",
+  "station_name": "3rd & G St SE",
+  "lat": "38.881185",
+  "long": "-77.001828"
+  },
+  {
+  "cabi_id": "145",
+  "station_name": "7th & R St NW / Shaw Library",
+  "lat": "38.912719",
+  "long": "-77.022155"
+  },
+  {
+  "cabi_id": "146",
+  "station_name": "9th & Upshur St NW",
+  "lat": "38.9418",
+  "long": "-77.0251"
+  },
+  {
+  "cabi_id": "147",
+  "station_name": "1st & Rhode Island Ave NW",
+  "lat": "38.915417",
+  "long": "-77.012289"
+  },
+  {
+  "cabi_id": "148",
+  "station_name": "Columbia Rd & Georgia Ave NW",
+  "lat": "38.928156",
+  "long": "-77.02344"
+  },
+  {
+  "cabi_id": "149",
+  "station_name": "California St & Florida Ave NW",
+  "lat": "38.917761",
+  "long": "-77.04062"
+  },
+  {
+  "cabi_id": "150",
+  "station_name": "Benning Rd & East Capitol St NE / Benning Rd Metro",
+  "lat": "38.889935",
+  "long": "-76.93723"
+  },
+  {
+  "cabi_id": "151",
+  "station_name": "3000 Connecticut Ave NW / National Zoo",
+  "lat": "38.930282",
+  "long": "-77.055599"
+  },
+  {
+  "cabi_id": "152",
+  "station_name": "Anacostia Ave & Benning Rd NE / River Terrace ",
+  "lat": "38.896544",
+  "long": "-76.96012"
+  },
+  {
+  "cabi_id": "153",
+  "station_name": "M St & Pennsylvania Ave NW",
+  "lat": "38.905126",
+  "long": "-77.056887"
+  },
+  {
+  "cabi_id": "154",
+  "station_name": "15th St & Massachusetts Ave SE",
+  "lat": "38.88732",
+  "long": "-76.983569"
+  },
+  {
+  "cabi_id": "155",
+  "station_name": "Congress Heights Metro",
+  "lat": "38.844711",
+  "long": "-76.987823"
+  },
+  {
+  "cabi_id": "156",
+  "station_name": "N Quincy St & Glebe Rd",
+  "lat": "38.876393",
+  "long": "-77.107735"
+  },
+  {
+  "cabi_id": "157",
+  "station_name": "Wilson Blvd & N Oakland St",
+  "lat": "38.8815",
+  "long": "-77.10396"
+  },
+  {
+  "cabi_id": "158",
+  "station_name": "N Veitch  & 20th St N",
+  "lat": "38.896923",
+  "long": "-77.086502"
+  },
+  {
+  "cabi_id": "159",
+  "station_name": "11th & K St NW",
+  "lat": "38.90268",
+  "long": "-77.02674"
+  },
+  {
+  "cabi_id": "160",
+  "station_name": "Fairfax Dr & Wilson Blvd",
+  "lat": "38.885801",
+  "long": "-77.097745"
+  },
+  {
+  "cabi_id": "161",
+  "station_name": "Key Blvd & N Quinn St",
+  "lat": "38.896015",
+  "long": "-77.078107"
+  },
+  {
+  "cabi_id": "162",
+  "station_name": "1st & K St SE",
+  "lat": "38.87861",
+  "long": "-77.006004"
+  },
+  {
+  "cabi_id": "163",
+  "station_name": "39th & Calvert St NW / Stoddert",
+  "lat": "38.922649",
+  "long": "-77.077271"
+  },
+  {
+  "cabi_id": "164",
+  "station_name": "1st & Washington Hospital Center NW",
+  "lat": "38.928743",
+  "long": "-77.012457"
+  },
+  {
+  "cabi_id": "165",
+  "station_name": "Virginia Square Metro / N Monroe St & 9th St N",
+  "lat": "38.882788",
+  "long": "-77.103148"
+  },
+  {
+  "cabi_id": "166",
+  "station_name": "Central Library / N Quincy St & 10th St N",
+  "lat": "38.88397",
+  "long": "-77.10783"
+  },
+  {
+  "cabi_id": "167",
+  "station_name": "Washington Blvd & 10th St N",
+  "lat": "38.884734",
+  "long": "-77.093485"
+  },
+  {
+  "cabi_id": "168",
+  "station_name": "Jefferson Dr & 14th St SW",
+  "lat": "38.888553",
+  "long": "-77.032429"
+  },
+  {
+  "cabi_id": "169",
+  "station_name": "Smithsonian / Jefferson Dr & 12th St SW",
+  "lat": "38.888767",
+  "long": "-77.02858"
+  },
+  {
+  "cabi_id": "170",
+  "station_name": "George Mason Dr & Wilson Blvd",
+  "lat": "38.87887",
+  "long": "-77.1207"
+  },
+  {
+  "cabi_id": "171",
+  "station_name": "6th St & Indiana Ave NW",
+  "lat": "38.894573",
+  "long": "-77.01994"
+  },
+  {
+  "cabi_id": "172",
+  "station_name": "N Veitch & Key Blvd",
+  "lat": "38.893241",
+  "long": "-77.086045"
+  },
+  {
+  "cabi_id": "173",
+  "station_name": "N Adams St & Lee Hwy",
+  "lat": "38.89593",
+  "long": "-77.089006"
+  },
+  {
+  "cabi_id": "174",
+  "station_name": "15th & N Scott St",
+  "lat": "38.89054",
+  "long": "-77.08095"
+  },
+  {
+  "cabi_id": "175",
+  "station_name": "Washington Blvd & 7th St N",
+  "lat": "38.880834",
+  "long": "-77.091129"
+  },
+  {
+  "cabi_id": "176",
+  "station_name": "Ballston Metro / N Stuart & 9th St N",
+  "lat": "38.881044",
+  "long": "-77.111768"
+  },
+  {
+  "cabi_id": "177",
+  "station_name": "N Randolph St & Fairfax Dr",
+  "lat": "38.882629",
+  "long": "-77.109366"
+  },
+  {
+  "cabi_id": "178",
+  "station_name": "Jefferson Memorial",
+  "lat": "38.879819",
+  "long": "-77.037413"
+  },
+  {
+  "cabi_id": "179",
+  "station_name": "Good Hope Rd & 14th St SE",
+  "lat": "38.866611",
+  "long": "-76.985238"
+  },
+  {
+  "cabi_id": "180",
+  "station_name": "Glebe Rd & 11th St N",
+  "lat": "38.883921",
+  "long": "-77.116817"
+  },
+  {
+  "cabi_id": "181",
+  "station_name": "N Quincy St & Wilson Blvd",
+  "lat": "38.880151",
+  "long": "-77.107673"
+  },
+  {
+  "cabi_id": "182",
+  "station_name": "Fairfax Dr & Kenmore St",
+  "lat": "38.884616",
+  "long": "-77.10108"
+  },
+  {
+  "cabi_id": "183",
+  "station_name": "Gallaudet / 8th St & Florida Ave NE",
+  "lat": "38.90509",
+  "long": "-76.9941"
+  },
+  {
+  "cabi_id": "185",
+  "station_name": "20th & L St NW",
+  "lat": "38.903584",
+  "long": "-77.044789"
+  },
+  {
+  "cabi_id": "186",
+  "station_name": "12th & L St NW",
+  "lat": "38.903819",
+  "long": "-77.0284"
+  },
+  {
+  "cabi_id": "187",
+  "station_name": "21st St & Pennsylvania Ave NW",
+  "lat": "38.901539",
+  "long": "-77.046564"
+  },
+  {
+  "cabi_id": "188",
+  "station_name": "19th & K St NW",
+  "lat": "38.902204",
+  "long": "-77.04337"
+  },
+  {
+  "cabi_id": "189",
+  "station_name": "Prince St & Union St",
+  "lat": "38.803124",
+  "long": "-77.040363"
+  },
+  {
+  "cabi_id": "190",
+  "station_name": "Market Square / King St & Royal St",
+  "lat": "38.804718",
+  "long": "-77.043363"
+  },
+  {
+  "cabi_id": "191",
+  "station_name": "Saint Asaph St & Pendleton  St",
+  "lat": "38.810743",
+  "long": "-77.044664"
+  },
+  {
+  "cabi_id": "192",
+  "station_name": "King St & Patrick St",
+  "lat": "38.805317",
+  "long": "-77.049883"
+  },
+  {
+  "cabi_id": "193",
+  "station_name": "15th & K St NW",
+  "lat": "38.902",
+  "long": "-77.03353"
+  },
+  {
+  "cabi_id": "194",
+  "station_name": "Commerce St & Fayette St",
+  "lat": "38.805648",
+  "long": "-77.05293"
+  },
+  {
+  "cabi_id": "195",
+  "station_name": "Henry St & Pendleton St",
+  "lat": "38.811456",
+  "long": "-77.050276"
+  },
+  {
+  "cabi_id": "196",
+  "station_name": "Braddock Rd Metro",
+  "lat": "38.814577",
+  "long": "-77.052808"
+  },
+  {
+  "cabi_id": "197",
+  "station_name": "King St Metro",
+  "lat": "38.805767",
+  "long": "-77.06072"
+  },
+  {
+  "cabi_id": "198",
+  "station_name": "24th & N St NW",
+  "lat": "38.9066",
+  "long": "-77.05152"
+  },
+  {
+  "cabi_id": "199",
+  "station_name": "10th & E St NW",
+  "lat": "38.895914",
+  "long": "-77.026064"
+  },
+  {
+  "cabi_id": "200",
+  "station_name": "22nd & I St NW / Foggy Bottom",
+  "lat": "38.90088",
+  "long": "-77.048911"
+  },
+  {
+  "cabi_id": "201",
+  "station_name": "Utah St & 11th St N ",
+  "lat": "38.883669",
+  "long": "-77.113905"
+  },
+  {
+  "cabi_id": "202",
+  "station_name": "Barton St & 10th St N",
+  "lat": "38.884961",
+  "long": "-77.08777"
+  },
+  {
+  "cabi_id": "203",
+  "station_name": "Arlington Blvd & N Queen St",
+  "lat": "38.889365",
+  "long": "-77.077294"
+  },
+  {
+  "cabi_id": "204",
+  "station_name": "Lincoln Memorial",
+  "lat": "38.888251",
+  "long": "-77.049426"
+  },
+  {
+  "cabi_id": "206",
+  "station_name": "20th St & Virginia Ave NW",
+  "lat": "38.894722",
+  "long": "-77.045128"
+  },
+  {
+  "cabi_id": "207",
+  "station_name": "5th St & Massachusetts Ave NW",
+  "lat": "38.90093",
+  "long": "-77.018677"
+  },
+  {
+  "cabi_id": "208",
+  "station_name": "39th & Veazey St NW",
+  "lat": "38.943837",
+  "long": "-77.077078"
+  },
+  {
+  "cabi_id": "209",
+  "station_name": "Fessenden St & Wisconsin Ave NW",
+  "lat": "38.954812",
+  "long": "-77.082426"
+  },
+  {
+  "cabi_id": "210",
+  "station_name": "M St & Delaware Ave NE",
+  "lat": "38.905707",
+  "long": "-77.003041"
+  },
+  {
+  "cabi_id": "211",
+  "station_name": "Columbia Pike & S Courthouse Rd",
+  "lat": "38.863833",
+  "long": "-77.080319"
+  },
+  {
+  "cabi_id": "212",
+  "station_name": "Walter Reed Community Center / Walter Reed Dr & 16th St S",
+  "lat": "38.857803",
+  "long": "-77.086733"
+  },
+  {
+  "cabi_id": "213",
+  "station_name": "28th St S & S Meade St",
+  "lat": "38.846222",
+  "long": "-77.069275"
+  },
+  {
+  "cabi_id": "214",
+  "station_name": "18th St & Wyoming Ave NW",
+  "lat": "38.918809",
+  "long": "-77.041571"
+  },
+  {
+  "cabi_id": "215",
+  "station_name": "5th & Kennedy St NW",
+  "lat": "38.956595",
+  "long": "-77.019815"
+  },
+  {
+  "cabi_id": "216",
+  "station_name": "Georgia Ave & Emerson St NW",
+  "lat": "38.949662",
+  "long": "-77.027333"
+  },
+  {
+  "cabi_id": "217",
+  "station_name": "14th & Upshur St NW",
+  "lat": "38.942016",
+  "long": "-77.032652"
+  },
+  {
+  "cabi_id": "218",
+  "station_name": "14th St & Colorado Ave NW",
+  "lat": "38.956432",
+  "long": "-77.032947"
+  },
+  {
+  "cabi_id": "219",
+  "station_name": "S Troy St & 26th St S",
+  "lat": "38.847977",
+  "long": "-77.075104"
+  },
+  {
+  "cabi_id": "220",
+  "station_name": "S Four Mile Run Dr & S Shirlington Rd",
+  "lat": "38.8444",
+  "long": "-77.085931"
+  },
+  {
+  "cabi_id": "221",
+  "station_name": "S Oakland St & Columbia Pike",
+  "lat": "38.860789",
+  "long": "-77.09586"
+  },
+  {
+  "cabi_id": "222",
+  "station_name": "S Four Mile Run & Walter Reed Dr",
+  "lat": "38.84736",
+  "long": "-77.095431"
+  },
+  {
+  "cabi_id": "223",
+  "station_name": "S Arlington Mill Dr & Campbell Ave",
+  "lat": "38.84232",
+  "long": "-77.089555"
+  },
+  {
+  "cabi_id": "224",
+  "station_name": "S Kenmore & 24th St S",
+  "lat": "38.848454",
+  "long": "-77.084918"
+  },
+  {
+  "cabi_id": "225",
+  "station_name": "13th St & Eastern Ave",
+  "lat": "38.987",
+  "long": "-77.029417"
+  },
+  {
+  "cabi_id": "226",
+  "station_name": "Wisconsin Ave & O St NW",
+  "lat": "38.90849",
+  "long": "-77.063586"
+  },
+  {
+  "cabi_id": "227",
+  "station_name": "S George Mason Dr & 13th St S",
+  "lat": "38.854691",
+  "long": "-77.100555"
+  },
+  {
+  "cabi_id": "228",
+  "station_name": "Connecticut & Nebraska Ave NW",
+  "lat": "38.955016",
+  "long": "-77.069956"
+  },
+  {
+  "cabi_id": "229",
+  "station_name": "17th St & Massachusetts Ave NW",
+  "lat": "38.908142",
+  "long": "-77.038359"
+  },
+  {
+  "cabi_id": "230",
+  "station_name": "15th & Euclid St  NW",
+  "lat": "38.92333",
+  "long": "-77.0352"
+  },
+  {
+  "cabi_id": "231",
+  "station_name": "8th & East Capitol St NE",
+  "lat": "38.889988",
+  "long": "-76.995193"
+  },
+  {
+  "cabi_id": "232",
+  "station_name": "New Jersey Ave & R St NW",
+  "lat": "38.912659",
+  "long": "-77.017669"
+  },
+  {
+  "cabi_id": "233",
+  "station_name": "15th & East Capitol St NE",
+  "lat": "38.889908",
+  "long": "-76.983326"
+  },
+  {
+  "cabi_id": "234",
+  "station_name": "8th & F St NE",
+  "lat": "38.897274",
+  "long": "-76.994749"
+  },
+  {
+  "cabi_id": "235",
+  "station_name": "18th St & Rhode Island Ave NE",
+  "lat": "38.927095",
+  "long": "-76.978924"
+  },
+  {
+  "cabi_id": "236",
+  "station_name": "15th & F St NE",
+  "lat": "38.897195",
+  "long": "-76.983575"
+  },
+  {
+  "cabi_id": "237",
+  "station_name": "12th & Irving St NE",
+  "lat": "38.928644",
+  "long": "-76.990955"
+  },
+  {
+  "cabi_id": "238",
+  "station_name": "34th St & Minnesota Ave SE",
+  "lat": "38.884085",
+  "long": "-76.957461"
+  },
+  {
+  "cabi_id": "239",
+  "station_name": "Alabama & MLK Ave SE",
+  "lat": "38.843222",
+  "long": "-76.999388"
+  },
+  {
+  "cabi_id": "240",
+  "station_name": "Pleasant St & MLK Ave SE",
+  "lat": "38.863897",
+  "long": "-76.990037"
+  },
+  {
+  "cabi_id": "241",
+  "station_name": "Neal St & Trinidad Ave NE",
+  "lat": "38.903732",
+  "long": "-76.987211"
+  },
+  {
+  "cabi_id": "242",
+  "station_name": "12th & U St NW",
+  "lat": "38.916787",
+  "long": "-77.028139"
+  },
+  {
+  "cabi_id": "243",
+  "station_name": "S George Mason Dr & Four Mile Run",
+  "lat": "38.852248",
+  "long": "-77.105022"
+  },
+  {
+  "cabi_id": "244",
+  "station_name": "S Stafford & 34th St S",
+  "lat": "38.834108",
+  "long": "-77.087323"
+  },
+  {
+  "cabi_id": "245",
+  "station_name": "N Pershing Dr & Wayne St",
+  "lat": "38.880705",
+  "long": "-77.08596"
+  },
+  {
+  "cabi_id": "246",
+  "station_name": "Columbia Pike & S Orme St",
+  "lat": "38.867262",
+  "long": "-77.072315"
+  },
+  {
+  "cabi_id": "247",
+  "station_name": "3rd St & Pennsylvania Ave SE",
+  "lat": "38.887378",
+  "long": "-77.001955"
+  },
+  {
+  "cabi_id": "248",
+  "station_name": "8th & D St NW",
+  "lat": "38.894851",
+  "long": "-77.02324"
+  },
+  {
+  "cabi_id": "249",
+  "station_name": "3rd & Elm St NW",
+  "lat": "38.917622",
+  "long": "-77.01597"
+  },
+  {
+  "cabi_id": "250",
+  "station_name": "Rhode Island Ave & V St NE",
+  "lat": "38.918155",
+  "long": "-77.004746"
+  },
+  {
+  "cabi_id": "251",
+  "station_name": "Constitution Ave & 2nd St NW/DOL",
+  "lat": "38.892275",
+  "long": "-77.013917"
+  },
+  {
+  "cabi_id": "252",
+  "station_name": "Washington & Independence Ave SW/HHS",
+  "lat": "38.88731",
+  "long": "-77.01397"
+  },
+  {
+  "cabi_id": "253",
+  "station_name": "Independence Ave & L'Enfant Plaza SW/DOE",
+  "lat": "38.887312",
+  "long": "-77.025762"
+  },
+  {
+  "cabi_id": "254",
+  "station_name": "Hamlin & 7th St NE",
+  "lat": "38.927497",
+  "long": "-76.997194"
+  },
+  {
+  "cabi_id": "255",
+  "station_name": "Columbia Pike & S Walter Reed Dr",
+  "lat": "38.862478",
+  "long": "-77.086599"
+  },
+  {
+  "cabi_id": "256",
+  "station_name": "Columbia Pike & S Dinwiddie St / Arlington Mill Community Center",
+  "lat": "38.856319",
+  "long": "-77.11153"
+  },
+  {
+  "cabi_id": "257",
+  "station_name": "Pershing & N George Mason Dr",
+  "lat": "38.871822",
+  "long": "-77.107906"
+  },
+  {
+  "cabi_id": "258",
+  "station_name": "Fenton St & New York Ave ",
+  "lat": "38.985404",
+  "long": "-77.023082"
+  },
+  {
+  "cabi_id": "259",
+  "station_name": "Bethesda Ave & Arlington Rd",
+  "lat": "38.981103",
+  "long": "-77.097426"
+  },
+  {
+  "cabi_id": "260",
+  "station_name": "Montgomery Ave & Waverly St ",
+  "lat": "38.983838",
+  "long": "-77.09221"
+  },
+  {
+  "cabi_id": "261",
+  "station_name": "Fallsgrove Blvd & Fallsgrove Dr",
+  "lat": "39.096312",
+  "long": "-77.192672"
+  },
+  {
+  "cabi_id": "262",
+  "station_name": "Traville Gateway Dr & Gudelsky Dr",
+  "lat": "39.093783",
+  "long": "-77.202501"
+  },
+  {
+  "cabi_id": "263",
+  "station_name": "Norfolk Ave & Fairmont St",
+  "lat": "38.988562",
+  "long": "-77.096539"
+  },
+  {
+  "cabi_id": "264",
+  "station_name": "E Montgomery Ave & Maryland Ave",
+  "lat": "39.084125",
+  "long": "-77.151291"
+  },
+  {
+  "cabi_id": "265",
+  "station_name": "Cordell & Norfolk Ave",
+  "lat": "38.98954",
+  "long": "-77.098029"
+  },
+  {
+  "cabi_id": "266",
+  "station_name": "Frederick Ave & Horners Ln",
+  "lat": "39.094772",
+  "long": "-77.145213"
+  },
+  {
+  "cabi_id": "267",
+  "station_name": "Philadelphia & Maple Ave",
+  "lat": "38.98128",
+  "long": "-77.011336"
+  },
+  {
+  "cabi_id": "268",
+  "station_name": "Maple & Ritchie Ave",
+  "lat": "38.983627",
+  "long": "-77.006311"
+  },
+  {
+  "cabi_id": "269",
+  "station_name": "Silver Spring Metro/Colesville Rd & Wayne Ave",
+  "lat": "38.99521",
+  "long": "-77.02918"
+  },
+  {
+  "cabi_id": "270",
+  "station_name": "Montgomery & East Ln",
+  "lat": "38.983525",
+  "long": "-77.095367"
+  },
+  {
+  "cabi_id": "271",
+  "station_name": "Friendship Hts Metro/Wisconsin Ave & Wisconsin Cir",
+  "lat": "38.961763",
+  "long": "-77.085998"
+  },
+  {
+  "cabi_id": "272",
+  "station_name": "14th & Belmont St NW",
+  "lat": "38.921074",
+  "long": "-77.031887"
+  },
+  {
+  "cabi_id": "273",
+  "station_name": "3rd & Tingey St SE",
+  "lat": "38.87501",
+  "long": "-77.0024"
+  },
+  {
+  "cabi_id": "274",
+  "station_name": "10th & Florida Ave NW",
+  "lat": "38.920387",
+  "long": "-77.025672"
+  },
+  {
+  "cabi_id": "275",
+  "station_name": "Potomac Ave & 8th St SE",
+  "lat": "38.876737",
+  "long": "-76.994468"
+  },
+  {
+  "cabi_id": "276",
+  "station_name": "Crabbs Branch Way & Redland Rd",
+  "lat": "39.120045",
+  "long": "-77.156985"
+  },
+  {
+  "cabi_id": "277",
+  "station_name": "Fallsgrove Dr & W Montgomery Ave",
+  "lat": "39.099376",
+  "long": "-77.188014"
+  },
+  {
+  "cabi_id": "278",
+  "station_name": "Monroe St & Monroe Pl",
+  "lat": "39.082779",
+  "long": "-77.148827"
+  },
+  {
+  "cabi_id": "279",
+  "station_name": "Needwood Rd & Eagles Head Ct",
+  "lat": "39.123513",
+  "long": "-77.15741"
+  },
+  {
+  "cabi_id": "280",
+  "station_name": "East West Hwy & Blair Mill Rd",
+  "lat": "38.990249",
+  "long": "-77.02935"
+  },
+  {
+  "cabi_id": "281",
+  "station_name": "Crabbs Branch Way & Calhoun Pl",
+  "lat": "39.107709",
+  "long": "-77.152072"
+  },
+  {
+  "cabi_id": "282",
+  "station_name": "47th & Elm St",
+  "lat": "38.982456",
+  "long": "-77.091991"
+  },
+  {
+  "cabi_id": "283",
+  "station_name": "Garland Ave & Walden Rd",
+  "lat": "39.000578",
+  "long": "-77.00149"
+  },
+  {
+  "cabi_id": "284",
+  "station_name": "Montgomery College/W Campus Dr & Mannakee St",
+  "lat": "39.095661",
+  "long": "-77.159048"
+  },
+  {
+  "cabi_id": "285",
+  "station_name": "Fenton St & Gist Ave",
+  "lat": "38.989724",
+  "long": "-77.023854"
+  },
+  {
+  "cabi_id": "286",
+  "station_name": "Carroll & Westmoreland Ave",
+  "lat": "38.975",
+  "long": "-77.01121"
+  },
+  {
+  "cabi_id": "287",
+  "station_name": "Carroll & Ethan Allen Ave",
+  "lat": "38.977933",
+  "long": "-77.006472"
+  },
+  {
+  "cabi_id": "288",
+  "station_name": "Battery Ln & Trolley Trail",
+  "lat": "38.992375",
+  "long": "-77.100104"
+  },
+  {
+  "cabi_id": "289",
+  "station_name": "Norfolk & Rugby Ave",
+  "lat": "38.990639",
+  "long": "-77.100239"
+  },
+  {
+  "cabi_id": "290",
+  "station_name": "Offutt Ln & Chevy Chase Dr",
+  "lat": "38.977093",
+  "long": "-77.094589"
+  },
+  {
+  "cabi_id": "291",
+  "station_name": "Broschart & Blackwell Rd",
+  "lat": "39.102099",
+  "long": "-77.200322"
+  },
+  {
+  "cabi_id": "292",
+  "station_name": "Taft St & E Gude Dr",
+  "lat": "39.094103",
+  "long": "-77.132954"
+  },
+  {
+  "cabi_id": "293",
+  "station_name": "Fleet St & Ritchie Pkwy",
+  "lat": "39.076331",
+  "long": "-77.141378"
+  },
+  {
+  "cabi_id": "294",
+  "station_name": "Piccard & W Gude Dr",
+  "lat": "39.102212",
+  "long": "-77.177091"
+  },
+  {
+  "cabi_id": "295",
+  "station_name": "Ripley & Bonifant St",
+  "lat": "38.992679",
+  "long": "-77.029457"
+  },
+  {
+  "cabi_id": "296",
+  "station_name": "Georgia Ave & Spring St",
+  "lat": "38.999388",
+  "long": "-77.031555"
+  },
+  {
+  "cabi_id": "297",
+  "station_name": "Fenton St & Ellsworth Dr ",
+  "lat": "38.997033",
+  "long": "-77.025608"
+  },
+  {
+  "cabi_id": "298",
+  "station_name": "King Farm Blvd & Pleasant Dr",
+  "lat": "39.114688",
+  "long": "-77.171487"
+  },
+  {
+  "cabi_id": "299",
+  "station_name": "King Farm Blvd & Piccard Dr",
+  "lat": "39.110314",
+  "long": "-77.182669"
+  },
+  {
+  "cabi_id": "301",
+  "station_name": "Calvert St & Woodley Pl NW",
+  "lat": "38.923583",
+  "long": "-77.050046"
+  },
+  {
+  "cabi_id": "302",
+  "station_name": "New Jersey Ave & N St NW/Dunbar HS",
+  "lat": "38.90706",
+  "long": "-77.015231"
+  },
+  {
+  "cabi_id": "303",
+  "station_name": "Nannie Helen Burroughs Ave & 49th St NE",
+  "lat": "38.898536",
+  "long": "-76.931862"
+  },
+  {
+  "cabi_id": "304",
+  "station_name": "Deanwood Rec Center",
+  "lat": "38.908473",
+  "long": "-76.933099"
+  },
+  {
+  "cabi_id": "305",
+  "station_name": "Hains Point/Buckeye & Ohio Dr SW",
+  "lat": "38.878433",
+  "long": "-77.03023"
+  },
+  {
+  "cabi_id": "306",
+  "station_name": "Arlington Blvd & Fillmore St",
+  "lat": "38.873755",
+  "long": "-77.089233"
+  },
+  {
+  "cabi_id": "307",
+  "station_name": "Long Bridge Park/Long Bridge Dr & 6th St S",
+  "lat": "38.86646",
+  "long": "-77.04826"
+  },
+  {
+  "cabi_id": "308",
+  "station_name": "Old Georgetown Rd & Southwick St",
+  "lat": "38.999634",
+  "long": "-77.109647"
+  },
+  {
+  "cabi_id": "309",
+  "station_name": "Friendship Blvd & Willard Ave",
+  "lat": "38.96115",
+  "long": "-77.088659"
+  },
+  {
+  "cabi_id": "310",
+  "station_name": "North Capitol St & G Pl NE",
+  "lat": "38.899703",
+  "long": "-77.008911"
+  },
+  {
+  "cabi_id": "311",
+  "station_name": "31st & Woodrow St S",
+  "lat": "38.837666",
+  "long": "-77.09482"
+  },
+  {
+  "cabi_id": "312",
+  "station_name": "Washington Blvd & Walter Reed Dr ",
+  "lat": "38.873219",
+  "long": "-77.082104"
+  },
+  {
+  "cabi_id": "313",
+  "station_name": "TJ Cmty Ctr / 2nd St & S Old Glebe Rd",
+  "lat": "38.869418",
+  "long": "-77.095596"
+  },
+  {
+  "cabi_id": "314",
+  "station_name": "Connecticut Ave & Tilden St NW",
+  "lat": "38.941154",
+  "long": "-77.062036"
+  },
+  {
+  "cabi_id": "315",
+  "station_name": "Medical Center Dr & Key West Ave",
+  "lat": "39.103091",
+  "long": "-77.196442"
+  },
+  {
+  "cabi_id": "316",
+  "station_name": "Shady Grove Hospital",
+  "lat": "39.097636",
+  "long": "-77.196636"
+  },
+  {
+  "cabi_id": "317",
+  "station_name": "Veterans Pl & Pershing Dr ",
+  "lat": "38.997445",
+  "long": "-77.023894"
+  },
+  {
+  "cabi_id": "318",
+  "station_name": "Rockville Metro East",
+  "lat": "39.085394",
+  "long": "-77.145803"
+  },
+  {
+  "cabi_id": "319",
+  "station_name": "1st & H St NW",
+  "lat": "38.900358",
+  "long": "-77.012108"
+  },
+  {
+  "cabi_id": "320",
+  "station_name": "Fort Totten Metro",
+  "lat": "38.952369",
+  "long": "-77.002721"
+  },
+  {
+  "cabi_id": "321",
+  "station_name": "Takoma Metro",
+  "lat": "38.975219",
+  "long": "-77.016855"
+  },
+  {
+  "cabi_id": "322",
+  "station_name": "Rhode Island Ave Metro",
+  "lat": "38.920682",
+  "long": "-76.995876"
+  },
+  {
+  "cabi_id": "323",
+  "station_name": "Rolfe St & 9th St S",
+  "lat": "38.866471",
+  "long": "-77.076131"
+  },
+  {
+  "cabi_id": "324",
+  "station_name": "Shirlington Transit Center / S Quincy & Randolph St",
+  "lat": "38.839912",
+  "long": "-77.087083"
+  },
+  {
+  "cabi_id": "325",
+  "station_name": "Shady Grove Metro West",
+  "lat": "39.119765",
+  "long": "-77.166093"
+  },
+  {
+  "cabi_id": "326",
+  "station_name": "River Rd & Landy Ln",
+  "lat": "38.964992",
+  "long": "-77.103381"
+  },
+  {
+  "cabi_id": "327",
+  "station_name": "Rockville Metro West",
+  "lat": "39.084379",
+  "long": "-77.146866"
+  },
+  {
+  "cabi_id": "328",
+  "station_name": "Bethesda Metro",
+  "lat": "38.984691",
+  "long": "-77.094537"
+  },
+  {
+  "cabi_id": "329",
+  "station_name": "Iwo Jima Memorial/N Meade & 14th St N",
+  "lat": "38.88992",
+  "long": "-77.071301"
+  },
+  {
+  "cabi_id": "330",
+  "station_name": "34th & Water St NW",
+  "lat": "38.903582",
+  "long": "-77.067786"
+  },
+  {
+  "cabi_id": "331",
+  "station_name": "Duke St & John Carlyle St",
+  "lat": "38.804378",
+  "long": "-77.060866"
+  },
+  {
+  "cabi_id": "332",
+  "station_name": "Lee Hwy & N Cleveland St",
+  "lat": "38.894941",
+  "long": "-77.09169"
+  },
+  {
+  "cabi_id": "333",
+  "station_name": "Arlington Blvd & S George Mason Dr/NFATC",
+  "lat": "38.869442",
+  "long": "-77.104503"
+  },
+  {
+  "cabi_id": "334",
+  "station_name": "MLK Library/9th & G St NW",
+  "lat": "38.898404",
+  "long": "-77.024281"
+  },
+  {
+  "cabi_id": "335",
+  "station_name": "Lee Hwy & N Scott St",
+  "lat": "38.897612",
+  "long": "-77.080851"
+  },
+  {
+  "cabi_id": "336",
+  "station_name": "New Hampshire Ave & 24th St NW",
+  "lat": "38.901755",
+  "long": "-77.051084"
+  },
+  {
+  "cabi_id": "337",
+  "station_name": "Eisenhower Ave & Mill Race Ln",
+  "lat": "38.801111",
+  "long": "-77.068952"
+  },
+  {
+  "cabi_id": "338",
+  "station_name": "Potomac Greens Dr & Slaters Ln",
+  "lat": "38.82175",
+  "long": "-77.047494"
+  },
+  {
+  "cabi_id": "339",
+  "station_name": "Ballenger Ave & Dulaney St",
+  "lat": "38.802677",
+  "long": "-77.063562"
+  },
+  {
+  "cabi_id": "340",
+  "station_name": "Mount Vernon Ave & E Nelson Ave",
+  "lat": "38.820064",
+  "long": "-77.057619"
+  },
+  {
+  "cabi_id": "341",
+  "station_name": "Mount Vernon Ave & E Del Ray Ave",
+  "lat": "38.82595",
+  "long": "-77.058541"
+  },
+  {
+  "cabi_id": "342",
+  "station_name": "Monroe Ave & Leslie Ave",
+  "lat": "38.820932",
+  "long": "-77.053096"
+  },
+  {
+  "cabi_id": "343",
+  "station_name": "Mount Vernon Ave & Kennedy St",
+  "lat": "38.833077",
+  "long": "-77.059821"
+  },
+  {
+  "cabi_id": "344",
+  "station_name": "Court House Metro / 15th & N Uhle St ",
+  "lat": "38.890612",
+  "long": "-77.084801"
+  },
+  {
+  "cabi_id": "345",
+  "station_name": "Washington Adventist U / Flower Ave & Division St",
+  "lat": "38.986743",
+  "long": "-77.000035"
+  },
+  {
+  "cabi_id": "346",
+  "station_name": "6th & S Ball St",
+  "lat": "38.864702",
+  "long": "-77.048672"
+  },
+  {
+  "cabi_id": "347",
+  "station_name": "McKinley St & Connecticut Ave NW",
+  "lat": "38.96497",
+  "long": "-77.075946"
+  },
+  {
+  "cabi_id": "348",
+  "station_name": "15th & L St NW",
+  "lat": "38.90381",
+  "long": "-77.034931"
+  },
+  {
+  "cabi_id": "349",
+  "station_name": "17th & G St NW",
+  "lat": "38.89841",
+  "long": "-77.039624"
+  },
+  {
+  "cabi_id": "350",
+  "station_name": "Spring St & Second Ave",
+  "lat": "38.997653",
+  "long": "-77.034499"
+  },
+  {
+  "cabi_id": "351",
+  "station_name": "18th & R St NW",
+  "lat": "38.912648",
+  "long": "-77.041834"
+  },
+  {
+  "cabi_id": "352",
+  "station_name": "S Joyce & 16th St S",
+  "lat": "38.859254",
+  "long": "-77.063275"
+  },
+  {
+  "cabi_id": "353",
+  "station_name": "Union Market/6th St & Neal Pl NE",
+  "lat": "38.908008",
+  "long": "-76.996985"
+  },
+  {
+  "cabi_id": "354",
+  "station_name": "N Nelson St & Lee Hwy",
+  "lat": "38.895929",
+  "long": "-77.105246"
+  },
+  {
+  "cabi_id": "355",
+  "station_name": "21st St N & N Pierce St",
+  "lat": "38.898984",
+  "long": "-77.078317"
+  },
+  {
+  "cabi_id": "356",
+  "station_name": "Lee Hwy & N Kirkwood Rd",
+  "lat": "38.895377",
+  "long": "-77.09713"
+  },
+  {
+  "cabi_id": "357",
+  "station_name": "19th & G St NW",
+  "lat": "38.898412",
+  "long": "-77.043182"
+  },
+  {
+  "cabi_id": "364",
+  "station_name": "Army Navy Dr & S Nash St",
+  "lat": "38.862467",
+  "long": "-77.068242"
+  },
+  {
+  "cabi_id": "367",
+  "station_name": "11th & S St NW",
+  "lat": "38.913761",
+  "long": "-77.027025"
+  },
+  {
+  "cabi_id": "368",
+  "station_name": "S Walter Reed Dr & 8th St S",
+  "lat": "38.86612",
+  "long": "-77.08787"
+  },
+  {
+  "cabi_id": "369",
+  "station_name": "2nd & G St NE",
+  "lat": "38.89967",
+  "long": "-77.003666"
+  },
+  {
+  "cabi_id": "370",
+  "station_name": "8th & O St NW",
+  "lat": "38.90864",
+  "long": "-77.02277"
+  },
+  {
+  "cabi_id": "371",
+  "station_name": "Georgia & Missouri Ave NW",
+  "lat": "38.961339",
+  "long": "-77.027855"
+  },
+  {
+  "cabi_id": "373",
+  "station_name": "Oklahoma Ave & D St NE",
+  "lat": "38.894474",
+  "long": "-76.974828"
+  }
+]
