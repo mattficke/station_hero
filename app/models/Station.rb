@@ -32,5 +32,16 @@ class Station < ActiveRecord::Base
       return list
     end
 
+    def self.fetch(id)
+      data = self.status()
+      data.each_with_index do |station, index|
+        station_int = station[:id].to_i
+        if station_int == id
+          return data[index]
+        end
+      end
+
+    end
+
     
 end
