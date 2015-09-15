@@ -43,5 +43,18 @@ class Station < ActiveRecord::Base
 
     end
 
-    
+    def delta
+      # sample time period for testing
+      time = 100.days.ago
+      time_plus = 100.days.ago.advance(:minutes=>15)
+      departure_trips = Trip.where("start_date > ?", time).where("start_date < ?", time_plus)
+      arrival_trips = Trip.where("end_date > ?", time).where("end_date < ?", time_plus)
+      departure_trip_ids = departure_trips.map{|t| t[:id]}
+      arrival_trip_ids = arrival_trips.map{|t| t[:id]}
+      arrival_array = arrivals.where(trip_id: arrival_trip_ids)
+      departure_array = departures.where(trip_id: departure_trip_ids)
+
+      return arrival_array.length - departure_array.length
+
+    end
 end
