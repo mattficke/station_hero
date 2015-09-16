@@ -10,23 +10,21 @@ require 'csv'
 require 'date'
 
 
-Station.destroy_all
-Trip.destroy_all
 
-data = File.read('stations.json')
+# data = File.read('stations.json')
+#
+# station_data = JSON.parse(data)
+#
+# station_data.each do |station|
+#   Station.create({
+#     cabi_id: station["cabi_id"],
+#     station_name: station["station_name"],
+#     latitude: station["lat"],
+#     longitude: station["long"]
+#     })
+# end
 
-station_data = JSON.parse(data)
-
-station_data.each do |station|
-  Station.create({
-    cabi_id: station["cabi_id"],
-    station_name: station["station_name"],
-    latitude: station["lat"],
-    longitude: station["long"]
-    })
-end
-
-csv_text = File.read('2015-Q2-Trips-History-Data.csv')
+csv_text = File.read('2014-Q3-Trips-History-Data3.csv')
 csv = CSV.parse(csv_text, :headers => true)
 csv.each do |row|
   begin
