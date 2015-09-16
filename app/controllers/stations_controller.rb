@@ -6,8 +6,8 @@ class StationsController < ApplicationController
 
   def show
     @station = Station.find(params[:id])
-    delta = @station.delta
     @station_status = Station.fetch(@station.cabi_id)
+    delta = @station.delta(@station_status[:nbBikes].to_i, @station_status[:nbEmptyDocks].to_i)
     render json: {
         station: @station,
         nbBikes: @station_status[:nbBikes].to_i,
