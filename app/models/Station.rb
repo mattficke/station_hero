@@ -43,18 +43,46 @@ class Station < ActiveRecord::Base
 
     end
 
-    def delta
-      # sample time period for testing
-      time = 100.days.ago
-      time_plus = 100.days.ago.advance(:minutes=>15)
-      departure_trips = Trip.where("start_date > ?", time).where("start_date < ?", time_plus)
-      arrival_trips = Trip.where("end_date > ?", time).where("end_date < ?", time_plus)
-      departure_trip_ids = departure_trips.map{|t| t[:id]}
-      arrival_trip_ids = arrival_trips.map{|t| t[:id]}
-      arrival_array = arrivals.where(trip_id: arrival_trip_ids)
-      departure_array = departures.where(trip_id: departure_trip_ids)
+    def delta(bikes, docks)
+      current = Time.now
+      if (1..5).include?(current.wday)
+        weekday = true
+      elsif (6..7).include?(current.wday)
+        weekday = false
+      end
+      today = current.yday
+      start = current.prev_quarter.beginning_of_quarter.yday
 
-      return arrival_array.length - departure_array.length
+      deltas = []
+      while start <= current.prev_quarter.end_of_quarter.yday
+        xday = today - start
+        time = xday.days.ago
+        time_plus = xday.days.ago.advance(:minutes=>15)
+        departure_trips = Trip.where("start_date > ?", time).where("start_date < ?", time_plus)
+        arrival_trips = Trip.where("end_date > ?", time).where("end_date < ?", time_plus)
+        departure_trip_ids = departure_trips.map{|t| t[:id]}
+        arrival_trip_ids = arrival_trips.map{|t| t[:id]}
+        arrival_array = arrivals.where(trip_id: arrival_trip_ids)
+        departure_array = departures.where(trip_id: departure_trip_ids)
 
+        deltas.push(arrival_array.length - departure_array.length)
+        start = start + 5
+      end
+      bike_counter = 0.0
+      dock_counter = 0.0
+      deltas.each do |delta|
+        if bikes + delta <= 0
+          bike_counter = bike_counter + 1
+        elsif docks - delta <= 0
+          dock_counter = dock_counter + 1
+        end
+      end
+      bike_odds = (bike_counter / deltas.length) * 100
+      dock_odds = (dock_counter / deltas.length) * 100
+      binding.pry
+      return {
+        :bike_odds => bike_odds,
+        :dock_odds => dock_odds
+      }
     end
 end
