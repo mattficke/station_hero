@@ -43,7 +43,7 @@ class Station < ActiveRecord::Base
 
     end
 
-    def delta(bikes, docks)
+    def delta(id, bikes, docks)
       current = Time.now
       if (1..5).include?(current.wday)
         weekday = true
@@ -58,14 +58,9 @@ class Station < ActiveRecord::Base
         xday = today - start
         time = xday.days.ago
         time_plus = xday.days.ago.advance(:minutes=>15)
-        departure_trips = Trip.where("start_date > ?", time).where("start_date < ?", time_plus)
-        arrival_trips = Trip.where("end_date > ?", time).where("end_date < ?", time_plus)
-        departure_trip_ids = departure_trips.map{|t| t[:id]}
-        arrival_trip_ids = arrival_trips.map{|t| t[:id]}
-        arrival_array = arrivals.where(trip_id: arrival_trip_ids)
-        departure_array = departures.where(trip_id: departure_trip_ids)
-
-        deltas.push(arrival_array.length - departure_array.length)
+        departure_trips = Trip.joins(:departures).where("departures.station_id" => id).where("end_date > ?", time).where("end_date < ?", time_plus)
+        arrival_trips = Trip.joins(:arrivals).where("arrivals.station_id" => id).where("end_date > ?", time).where("end_date < ?", time_plus)
+        deltas.push(arrival_trips.length - departure_trips.length)
         start = start + 5
       end
       bike_counter = 0.0
@@ -79,10 +74,9 @@ class Station < ActiveRecord::Base
       end
       bike_odds = (bike_counter / deltas.length) * 100
       dock_odds = (dock_counter / deltas.length) * 100
-      binding.pry
       return {
-        :bike_odds => bike_odds,
-        :dock_odds => dock_odds
+        :bike_odds => bike_odds.round,
+        :dock_odds => dock_odds.round
       }
     end
 end
