@@ -7,7 +7,6 @@
 default: &default
   adapter: postgresql
   pool: 5
-  timeout: 5000
 
 development:
   <<: *default
@@ -23,3 +22,5 @@ test:
 production:
   <<: *default
   database: bike_production
+  username: rails
+  password: <%= ENV['STATIONHERO_DATABASE_PASSWORD'] %>
