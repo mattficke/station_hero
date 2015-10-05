@@ -45,25 +45,66 @@ class Station < ActiveRecord::Base
 
     def delta(id, bikes, docks)
       current = Time.now
-      if (1..5).include?(current.wday)
-        weekday = true
-      elsif (6..7).include?(current.wday)
-        weekday = false
-      end
-      today = current.yday
-      start = current.prev_quarter.beginning_of_quarter.yday
+      current_time = current.strftime('%R') #Hour:Minute
 
-      deltas = []
-      while start <= current.prev_quarter.end_of_quarter.yday
-        xday = today - start
-        time = xday.days.ago
-        time_plus = xday.days.ago.advance(:minutes=>15)
-        departure_trips = Trip.joins(:departures).where("departures.station_id" => id).where("end_date > ?", time).where("end_date < ?", time_plus)
-        arrival_trips = Trip.joins(:arrivals).where("arrivals.station_id" => id).where("end_date > ?", time).where("end_date < ?", time_plus)
-        deltas.push(arrival_trips.length - departure_trips.length)
-        start = start + 5
+      ## for possible future weekday/weekend operations
+      # if (1..5).include?(current.wday)
+      #   weekday = true
+      # elsif (6..7).include?(current.wday)
+      #   weekday = false
+      # end
+
+      today = current.wday #get day of week (Sunday..Saturday =  0..6)
+
+      # DB query. Limit search to trips from the current day of the week.
+      depts = Trip.joins(:departures).where("departures.station_id" => id).where("EXTRACT (DOW FROM start_date) = ?", today)
+      arrivs = Trip.joins(:arrivals).where("arrivals.station_id" => id).where("EXTRACT (DOW FROM end_date) = ?", today)
+
+      departure_trips = Hash.new
+      arrival_trips = Hash.new
+
+      # create/append to array of departures for each date in departure_trips
+      depts.each do |departure|
+        if departure.start_date.strftime("%R") > current_time && departure.start_date.strftime("%R") < current.advance(:minutes=>15).strftime("%R")
+          date = departure.start_date.strftime("%D")
+          if departure_trips[date]
+            departure_trips[date].push(departure)
+          else
+            departure_trips[date] = [departure]
+          end
+        end
       end
-      bike_counter = 0.0
+
+      #create/append to array of arrivals for each date in arrival_trips
+      arrivs.each do |arrival|
+        if arrival.end_date.strftime("%R") > current_time && arrival.end_date.strftime("%R") < current.advance(:minutes=>15).strftime("%R")
+          date = arrival.end_date.strftime("%D")
+          if arrival_trips[date]
+            arrival_trips[date].push(arrival)
+          else
+            arrival_trips[date] = [arrival]
+          end
+        end
+      end
+
+      deltas = [] #array of delta values for each day in sample set
+
+      arrival_trips.each do |date, trips|
+        if departure_trips[date]
+          delta = trips.length - departure_trips[date].length
+          deltas.push(delta)
+        else
+          deltas.push(trips.length)
+        end
+      end
+
+      departure_trips.each do |date, trips|
+        if !arrival_trips[date]
+          deltas.push(0 - trips.length)
+        end
+      end
+
+      bike_counter = 0.0 #decimal to force precision when calculating odds
       dock_counter = 0.0
       deltas.each do |delta|
         if bikes + delta <= 0
@@ -72,8 +113,10 @@ class Station < ActiveRecord::Base
           dock_counter = dock_counter + 1
         end
       end
+
       bike_odds = (bike_counter / deltas.length) * 100
       dock_odds = (dock_counter / deltas.length) * 100
+
       return {
         :bike_odds => bike_odds.round,
         :dock_odds => dock_odds.round
