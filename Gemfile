@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails_12factor'
+gem 'rails_12factor', group: :production
 # xml parser
 gem 'nokogiri'
 # parse malformed dates
