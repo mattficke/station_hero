@@ -109,7 +109,8 @@ class Station < ActiveRecord::Base
       deltas.each do |delta|
         if bikes + delta <= 0
           bike_counter = bike_counter + 1
-        elsif docks - delta <= 0
+        end
+        if docks - delta <= 0
           dock_counter = dock_counter + 1
         end
       end
