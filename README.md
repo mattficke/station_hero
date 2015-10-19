@@ -1,6 +1,6 @@
 # Station Hero
 
-API for [mattficke.com/stationhero](mattficke.com/stationhero)
+API for [mattficke.com/stationhero](http://www.mattficke.com/stationhero)
 
 `GET stationhero.com/stations`
 
